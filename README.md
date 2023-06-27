@@ -2,9 +2,9 @@
 <h1 align="center">Hola 👋, soy Felipe Andres Suarez Pacheco</h1>
 <h3 align="center">Un full stack developer e ingenierio electronico y de telecomunicaciones de colombia</h3>
 
-- 🤝 Hice parte de un equipo en el desarrollo de un e-comerce [eccellenza](https://eccellenza.online)
+- 🤝 Hice parte de un equipo en el desarrollo de un e-commerce [eccellenza]
 
-- 🔭 Desarrolle un proyecto individual [pokemonApi](https://github.com/felipe1998s/PI-Pokemon-main)
+- 🔭 Desarrolle un proyecto individual [pokemonApi](https://pokemon-app-five-liard.vercel.app)
 
 - 💬 Preguntame sobre **react, node, sequelize, postgresql entre otros**
 

@@ -4,7 +4,7 @@
 
 - 🤝 Hice parte de un equipo en el desarrollo de un e-commerce [eccellenza]
 
-- 🔭 Desarrolle un proyecto individual [pokemonApi](https://pokemon-app-five-liard.vercel.app)
+- 🔭 Desarrolle un proyecto individual [pokemonApi](https://pokemon-app-five-liard.vercel.app){:target="_blank"}
 
 - 💬 Preguntame sobre **react, node, sequelize, postgresql entre otros**
 

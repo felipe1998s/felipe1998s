@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hola 👋, soy Felipe Andres Suarez Pacheco</h1>
-<h3 align="center">Un full stack developer e ingenierio electronico y de telecomunicaciones de colombia</h3>
+<h3 align="center">Un full stack developer y estudiante de ingenieria electronica y telecomunicaciones de colombia</h3>
 
 - 🤝 Hice parte de un equipo en el desarrollo de un e-commerce [eccellenza]
 
